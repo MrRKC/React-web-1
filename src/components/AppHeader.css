@@ -1,0 +1,12 @@
+.app-header{
+	border-bottom: 1px solid rgb(50, 1, 1);
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color:rgb(0, 243, 255);
+}
+
+.app-header-logo{
+	height: 78px;
+}
